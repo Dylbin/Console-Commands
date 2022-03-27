@@ -191,3 +191,19 @@
 | G-Strike | beacon |
 | Ray Gun MK2 | raygun_mark2 |
 | Porters Mark 2 Ray Gun | raygun_mark2_upgraded |
+
+##### Moon (Specific Weapons)
+
+| Gun Name | Command |
+|---------|--------------|
+| Gersch Device | black_hole_bomb |
+| QED | quantum_bomb |
+| Zap Gun / Wave Gun | microwavegundw |
+| Porters X2 Zap Guns / Max Wave Gun | microwavegundw_upgraded |
+
+##### Shangri La (Specific Weapons)
+
+| Gun Name | Command |
+|---------|--------------|
+| 31-79-jgb-215 | shrink_ray |
+| The Fractalizer | shrink_ray_upgraded |
