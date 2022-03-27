@@ -1,3 +1,21 @@
+# Weapon Commands (BO2 Zombies)
+
+#### Specials
+| Gun Name | Command |
+|---------|--------------|
+| Ray Gun | ray_gun_zm |
+| Porters X2 Ray Gun | ray_gun_zm_upgraded |
+| Ray Gun Mark 2 | raygun_mark2 |
+| Porters Mark 2 Ray Gun | raygun_mark2_upgraded |
+| EMP | emp_grenade |
+| Monkey Bombs | cymbal_monkey_zm |
+| Bowie Knife | bowie_knife_zm |
+| Galvaknuckles | zombie_tazer_flourish |
+| Jetgun | jetgun_zm |
+| 
+
+
+
 # Weapon Commands (BO3 Zombies)
 
 ##### Pistols
